@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucca Reymar</h1>
-<h3 align="center">Highschool computer science student</h3>
+<h3 align="center">Undergrad Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccareymar&label=Profile%20views&color=0e75b6&style=flat" alt="luccareymar" /> </p>
 
