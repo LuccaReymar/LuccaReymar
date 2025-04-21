@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luccareymar" alt="luccareymar" /></a> </p>
 
-- 🔭 I’m currently working on **Space asteroids project**
+- 🔭 I’m currently working on **Software Development Final Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
